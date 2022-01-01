@@ -1,5 +1,5 @@
 # C--Winform-Quan_ly_kho
-## đăng nhập
+## Form đăng nhập
 <p align='center'>
   <img src='a1.png' width=600'/>
 </p>
@@ -8,23 +8,23 @@
 <p align='center'>
   <img src='a2.png' width=600'/>
 </p>
-## đăng nhập
+## Form hệ thống
 <p align='center'>
   <img src='a3.png' width=600'/>
 </p>
-## đăng nhập
+## Form thông tin hàng
 <p align='center'>
   <img src='a4.png' width=600'/>
 </p>
-## đăng nhập
+## Form nhà cung cấp 
 <p align='center'>
   <img src='a5.png' width=600'/>
 </p>
-## đăng nhập
+## Phiếu nhập
 <p align='center'>
   <img src='a6.png' width=600'/>
 </p>
-## đăng nhập
+## Chi tiết phiếu nhập (nhập kho ở đây)
 <p align='center'>
   <img src='a7.png' width=600'/>
 </p>
